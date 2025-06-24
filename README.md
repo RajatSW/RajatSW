@@ -1,4 +1,4 @@
-![logo](https://github.com/RajatSW/RajatSW/blob/main/github-header-image.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Rajat Singh Waldia</h1>
 <h3 align="center">Front-End Web Developer | Python Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl4YzJraWlzd21qcTAxeXR4bXVjdmdrazYwczB2ZWRqbm5waGdrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif">
