@@ -15,7 +15,7 @@
 - ### 📬 Hire Me!
 
 I'm currently looking for **remote web dev internships** and freelance gigs.  
-If you like my work and need a hardworking dev, let's chat!<br>
+If you like my work and need a hardworking dev, let's chat!  
 📫 How to reach me **rajatwaldia18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
