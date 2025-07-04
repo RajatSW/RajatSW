@@ -8,11 +8,15 @@
 
 - 🌱 I’m currently learning **Back-End Web Development**
 
-- 📫 How to reach me **rajatwaldia18@gmail.com**
-
 - 📄 Know about my experiences [a passionate Front-End Web Developer who also vibes hard with Python 🐍. I've been building responsive websites, solving real-world problems, and learning new tech stacks faster than bugs multiply in production 😅](a passionate Front-End Web Developer who also vibes hard with Python 🐍. I've been building responsive websites, solving real-world problems, and learning new tech stacks faster than bugs multiply in production 😅)
 
 - ⚡ Fun fact **I’ll spend 3 hours making the UI perfect and 3 seconds on naming the file.**
+
+- ### 📬 Hire Me!
+
+I'm currently looking for **remote web dev internships** and freelance gigs.  
+If you like my work and need a hardworking dev, let's chat!<br>
+📫 How to reach me **rajatwaldia18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
