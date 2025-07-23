@@ -11,13 +11,21 @@
 - 📄 Know about my experiences [a passionate Front-End Web Developer who also vibes hard with Python 🐍. I've been building responsive websites, solving real-world problems, and learning new tech stacks faster than bugs multiply in production 😅](a passionate Front-End Web Developer who also vibes hard with Python 🐍. I've been building responsive websites, solving real-world problems, and learning new tech stacks faster than bugs multiply in production 😅)
 
 - ⚡ Fun fact **I’ll spend 3 hours making the UI perfect and 3 seconds on naming the file.**
+---
+## 💼 Hire Me
 
-- ### 📬 Hire Me!
+I'm currently open to exciting opportunities in **front-end development**, **web design**, **graphic design**, or any role where I can blend **creativity with code** and **insights with impact**.
 
-I'm currently looking for **remote web dev internships** and freelance gigs.  
-If you like my work and need a hardworking dev, let's chat!  
-📫 How to reach me **rajatwaldia18@gmail.com**
+With a strong foundation in **HTML, CSS, JavaScript, and Python**, I'm passionate about building beautiful, user-friendly digital experiences — whether it's an elegant website, a striking visual, or a data-driven web app.
 
+I'm also deeply curious about the world of **data science** — from wrangling messy datasets to discovering patterns and telling stories through clean, interactive visualizations.
+
+Whether you're looking for a **pixel-perfect UI/UX enthusiast**, a **creative problem-solver**, or someone who **learns fast and works smart** — let’s connect!
+
+📬 **Email:** [rajatwaldia18@gmail.com](mailto:rajatwaldia18@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/rajatwaldia017](https://linkedin.com/in/rajatwaldia017)
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajat waldia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat waldia" height="30" width="40" /></a>
