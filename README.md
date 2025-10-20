@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsw&label=Profile%20views&color=11cbe4&style=flat-square" alt="rajatsw" /> </p>
 
-- 🌱 I’m currently learning **Back-End Web Development**
+- 🌱 I’m currently learning **Data Science**
 
 - 📄 Know about my experiences [a passionate Front-End Web Developer who also vibes hard with Python 🐍. I've been building responsive websites, solving real-world problems, and learning new tech stacks faster than bugs multiply in production 😅](a passionate Front-End Web Developer who also vibes hard with Python 🐍. I've been building responsive websites, solving real-world problems, and learning new tech stacks faster than bugs multiply in production 😅)
 
