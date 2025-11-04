@@ -1,4 +1,4 @@
-![logo]([https://github.com/RajatSW/RajatSW/blob/main/github-header-image%20(1).png](https://github.com/RajatSW/RajatSW/blob/99546ee2366738e7e5e54c524326d91170e36675/Banner.jpg))
+![logo](Banner.jpg)
 <h1 align="center">Hi 👋, I'm Rajat Singh Waldia</h1>
 <h3 align="center"> Data Science | Front-End Web Developer</h3>
 
