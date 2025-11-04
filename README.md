@@ -1,4 +1,4 @@
-![logo](Banner.jpg)
+![logo](Banner.gif)
 <h1 align="center">Hi 👋, I'm Rajat Singh Waldia</h1>
 <h3 align="center"> Data Science | Front-End Web Developer</h3>
 
