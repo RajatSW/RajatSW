@@ -14,6 +14,7 @@
 - 📄 Know about my experiences [a passionate Front-End Web Developer who also vibes hard with Python 🐍. I've been building responsive websites, solving real-world problems, and learning new tech stacks faster than bugs multiply in production 😅](a passionate Front-End Web Developer who also vibes hard with Python 🐍. I've been building responsive websites, solving real-world problems, and learning new tech stacks faster than bugs multiply in production 😅)
 - 👨‍💻 All of my projects are available at [https://rajatsw.github.io/Portfolio/](https://rajatsw.github.io/Portfolio/)
 <br>
+
 ---
 ## 💼 Hire Me
 
