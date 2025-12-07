@@ -37,6 +37,8 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsw&" alt="rajatsw" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsw&show_icons=true&theme=dracula&title_color=0a0a0a&cache_seconds=1800&locale=en&layout=compact" alt="rajatsw" /></p>
+
 
 ---
 ## 💼 Hire Me
