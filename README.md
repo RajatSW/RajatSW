@@ -16,27 +16,7 @@
 <br>
 
 ---
-## 💼 Hire Me
 
-I'm currently open to exciting opportunities in **front-end development**, **web design**, **graphic design**, or any role where I can blend **creativity with code** and **insights with impact**.
-
-With a strong foundation in **HTML, CSS, JavaScript, and Python**, I'm passionate about building beautiful, user-friendly digital experiences — whether it's an elegant website, a striking visual, or a data-driven web app.
-
-I'm also deeply curious about the world of **data science** — from wrangling messy datasets to discovering patterns and telling stories through clean, interactive visualisations.
-
-Whether you're looking for a **pixel-perfect UI/UX enthusiast**, a **creative problem-solver**, or someone who **learns fast and works smart** — let’s connect!
-
-📬 **Email:** [rajatwaldia18@gmail.com](mailto:rajatwaldia18@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/rajatwaldia017](https://linkedin.com/in/rajatwaldia017)
-
----
-
-## Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/rajat waldia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat waldia" height="30" width="40" /></a>
-</p>
-
----
 ## Languages and Tools:
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -57,4 +37,26 @@ Whether you're looking for a **pixel-perfect UI/UX enthusiast**, a **creative pr
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsw&" alt="rajatsw" /></p>
+
+---
+## 💼 Hire Me
+
+I'm currently open to exciting opportunities in **front-end development**, **web design**, **graphic design**, or any role where I can blend **creativity with code** and **insights with impact**.
+
+With a strong foundation in **HTML, CSS, JavaScript, and Python**, I'm passionate about building beautiful, user-friendly digital experiences — whether it's an elegant website, a striking visual, or a data-driven web app.
+
+I'm also deeply curious about the world of **data science** — from wrangling messy datasets to discovering patterns and telling stories through clean, interactive visualisations.
+
+Whether you're looking for a **pixel-perfect UI/UX enthusiast**, a **creative problem-solver**, or someone who **learns fast and works smart** — let’s connect!
+
+📬 **Email:** [rajatwaldia18@gmail.com](mailto:rajatwaldia18@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/rajatwaldia017](https://linkedin.com/in/rajatwaldia017)
+
+---
+
+## Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/rajat waldia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat waldia" height="30" width="40" /></a>
+</p>
+
 
