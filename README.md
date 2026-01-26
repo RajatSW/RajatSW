@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsw&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsw" /> </p>
 
-- 🔭 I’m currently working on **Data Science & Analysis | Front-End Web Development**
+- 🔭 I’m currently working on **Data Science & Data Analytics | Front-End Web Development**
 
 - 🌱 I’m currently learning **Full-stack web development, Python for data science, and core machine learning concepts.**
 - 📄 Know about my experiences [a passionate Front-End Web Developer who also vibes hard with Python 🐍. I've been building responsive websites, solving real-world problems, and learning new tech stacks faster than bugs multiply in production 😅](a passionate Front-End Web Developer who also vibes hard with Python 🐍. I've been building responsive websites, solving real-world problems, and learning new tech stacks faster than bugs multiply in production 😅)
