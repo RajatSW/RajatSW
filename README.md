@@ -51,13 +51,12 @@ Also build responsive web interfaces using HTML, CSS, and JavaScript, applying U
 ---
 ## 💼 Hire Me
 
-I'm currently open to exciting opportunities in **front-end development**, **web design**, **graphic design**, or any role where I can blend **creativity with code** and **insights with impact**.
+I'm currently open to exciting opportunities in **Data Analyst**, **Data Science**, **Front-end Web-Development**, or any role where I can blend **creativity with code** and **insights with impact**.
 
-With a strong foundation in **HTML, CSS, JavaScript, and Python**, I'm passionate about building beautiful, user-friendly digital experiences — whether it's an elegant website, a striking visual, or a data-driven web app.
+I have hands-on experience with **Advanced Excel (Pivot Tables, VLOOKUP/XLOOKUP), SQL, and Python, using libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data cleaning, analysis, visualisation, and exploratory data analysis**. I also work with **Power BI** to create interactive dashboards and reports that support data-driven decision-making.
 
-I'm also deeply curious about the world of **data science** — from wrangling messy datasets to discovering patterns and telling stories through clean, interactive visualisations.
-
-Whether you're looking for a **pixel-perfect UI/UX enthusiast**, a **creative problem-solver**, or someone who **learns fast and works smart** — let’s connect!
+Alongside data, I build responsive web interfaces using **HTML, CSS, and JavaScript, adhering to UI/UX principles, and utilise Git for version control**. I’ve applied these skills in academic and self-driven projects, including scripting and small automation tasks.
+Whether you're looking for a **Data Analyst**, a **creative problem-solver**or a**Front-End Web-Developer**, or someone who **learns fast and works smart** — let’s connect!
 
 📬 **Email:** [rajatwaldia18@gmail.com](mailto:rajatwaldia18@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/rajatwaldia017](https://linkedin.com/in/rajatwaldia017)
