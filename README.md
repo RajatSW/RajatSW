@@ -12,13 +12,14 @@
 
 - 🌱 I’m currently learning **Python for Data Science | SQL for analytics | and core Machine Learning concepts | Full-stack web development.**
 
-- 📊 Skilled in
-- Programming & Databases: Python, SQL, PHP, HTML/CSS, JavaScript
-- Data Tools & Libraries: Pandas, NumPy, Matplotlib, Power BI, Advanced Excel
-- Version Control & Platforms: GitHub, WordPress
-- Design & Visualisation: Figma, UI Design, CSS Animations
+- 📊 SKILLED IN:<br>
+  **> Programming & Databases: Python, SQL, PHP, HTML/CSS, JavaScript<br>**
+  **> Data Tools & Libraries: Pandas, NumPy, Matplotlib, Power BI, Advanced Excel<br>**
+  **> Version Control & Platforms: GitHub, WordPress<br>**
+  **> Design & Visualisation: Figma, UI Design, CSS Animations**
 
-- 📄 Know about my experiences [a passionate Front-End Web Developer who also vibes hard with Python 🐍. I've been building responsive websites, solving real-world problems, and learning new tech stacks faster than bugs multiply in production 😅](a passionate Front-End Web Developer who also vibes hard with Python 🐍. I've been building responsive websites, solving real-world problems, and learning new tech stacks faster than bugs multiply in production 😅)
+- 📄 KNOW ABOUT ME:<br> Recent Bachelor of Computer Applications graduate with a strong interest in Data Analytics, Data Science, and Front-End Web Development. Experienced with Advanced Excel (Pivot Tables, VLOOKUP/XLOOKUP), SQL, and Python (Pandas, NumPy, Matplotlib, Seaborn) for data cleaning, analysis, visualisation, and exploratory analysis. Skilled in Power BI for interactive dashboards and reports.<br>
+Also build responsive web interfaces using HTML, CSS, and JavaScript, applying UI/UX principles, and utilise Git for version control. Applied these skills in academic and self-driven projects, including scripting and small automation tasks. Seeking Data Analyst / Data Science internships to contribute to real-world projects and learn from experienced teams.
 - 👨‍💻 All of my projects are available at [https://rajatsw.github.io/Portfolio/](https://rajatsw.github.io/Portfolio/)
 <br>
 
