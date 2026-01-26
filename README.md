@@ -8,9 +8,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsw&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsw" /> </p>
 
-- 🔭 I’m currently working on **Data Science & Data Analytics | Front-End Web Development**
+- 🔭 I’m currently working on **Data Science | Data Analytics | Front-End Web Development**
 
-- 🌱 I’m currently learning **Full-stack web development, Python for data science, and core machine learning concepts.**
+- 🌱 I’m currently learning **Python for Data Science | SQL for analytics | and core Machine Learning concepts | Full-stack web development.**
+
+- 📊 Skilled in
+- Programming & Databases: Python, SQL, PHP, HTML/CSS, JavaScript
+- Data Tools & Libraries: Pandas, NumPy, Matplotlib, Power BI, Advanced Excel
+- Version Control & Platforms: GitHub, WordPress
+- Design & Visualisation: Figma, UI Design, CSS Animations
+
 - 📄 Know about my experiences [a passionate Front-End Web Developer who also vibes hard with Python 🐍. I've been building responsive websites, solving real-world problems, and learning new tech stacks faster than bugs multiply in production 😅](a passionate Front-End Web Developer who also vibes hard with Python 🐍. I've been building responsive websites, solving real-world problems, and learning new tech stacks faster than bugs multiply in production 😅)
 - 👨‍💻 All of my projects are available at [https://rajatsw.github.io/Portfolio/](https://rajatsw.github.io/Portfolio/)
 <br>
